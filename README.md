@@ -1,10 +1,10 @@
 # ✅ PROJECT-5
 
-This experiment aims to create a predictive model to estimate bicycle rental demand, demonstrating the process of building a regression model. We will use a dataset to train the model and predict the 
-number of bicycles rented in a specific hour ("COUNT (CNT)" variable, ranging from 1 to 977). During the process, the Feature Selection technique was applied, which consists of selecting the most relevant
-variables for building the model, resulting in a simplification that facilitates its interpretation, reduces training time and improves generalization, avoiding overfitting.
+The project you described focuses on creating a predictive model to estimate bicycle rental demand. The aim is to build a regression model that can predict the number of bicycles rented in a specific hour. To accomplish this, a dataset was used to train the model, with the target variable being the "COUNT (CNT)" which represents the number of bicycles rented. During the process of building the regression model, a technique called Feature Selection was applied. This technique involves selecting the most relevant variables from the dataset to be used in building the model. By doing so, the model becomes simpler to interpret, reduces training time, and improves its generalization capabilities while avoiding overfitting.
 
-Keywords: R Language, Big Data, Data Analysis, Linear Regression, Boosted Decision Tree Regression, Machine Learning, Bikes, Optimization, Predictive Model, Rent Forecast.
+It's worth noting that the project was developed in parallel using both the R programming language and Microsoft Azure Machine Learning Studio. This suggests that the project team utilized both tools to explore and analyze the dataset, build and train the regression model, and evaluate its performance. R language provides a powerful and flexible environment for statistical analysis and modeling, while Azure Machine Learning Studio offers a cloud-based platform for building and deploying machine learning models. By leveraging these tools, the team could benefit from the strengths of each platform and choose the most suitable one based on their requirements and preferences. This approach demonstrates the versatility and adaptability of the project, as it was able to leverage different tools to achieve the desired outcome.
+
+Keywords: R Language, Microsoft Azure Big Data, Data Analysis, Linear Regression, Boosted Decision Tree Regression, Machine Learning, Bikes, Optimization, Predictive Model, Rent Forecast.
 
 # PROCESS
 
@@ -12,13 +12,13 @@ In this experiment, we first used the linear regression algorithm as part of the
 an initial predictive model, using a data set for training. Subsequently, Feature Selection techniques were applied to improve the model, selecting the most relevant variables. However, this combined approach of 
 linear regression and Feature Selection did not result in an optimized model, which had a very low coefficient of determination.
 
-![image](https://github.com/lucashomuniz/Project-5/assets/123151332/3e76bdc3-6119-49fd-ab43-c509935b9968)
+![image](https://github.com/lucashomuniz/Project-5/assets/123151332/0cc7298d-ea24-44db-9c19-e2e8eb6e8a59)
 
 After realizing that the first algorithm used, linear regression, did not obtain satisfactory results, it was decided to adopt a different approach for the development of machine learning. Thus, it was decided to
 use the Boosted Decision Tree Regression algorithm. This choice was due to its ability to deal with complex relationships between variables and improve the predictive capacity of the model. Through 
 Boosted Decision Tree Regression, it was possible to obtain a more accurate and efficient model for forecasting bicycle rental demand, allowing for more informed decisions and optimizing the service offered.
 
-![image](https://github.com/lucashomuniz/Project-5/assets/123151332/d9ff1e8f-d096-4cd9-9d94-3dd89aff945d)
+![image](https://github.com/lucashomuniz/Project-5/assets/123151332/60ca7e3e-ad89-43d5-adb4-f4c8823b1a9b)
 
 In the machine learning development process, it is important to consider choosing the right algorithm to achieve more accurate and efficient results. While Linear Regression is a simpler algorithm, 
 Boosted Decision Tree Regression is a more complex and optimized option. By using this improved Decision Tree algorithm, you can learn more deeply about the correlations between your data, resulting in superior
@@ -30,12 +30,16 @@ can be caused by variables not considered, unforeseen external influences or lim
 possible causes and evaluate the inclusion of additional variables to improve the predictive capacity of the model. With this refined approach, it will be possible to optimize performance and make the model more 
 accurate and reliable in its predictions.
 
-![image](https://github.com/lucashomuniz/Project-5/assets/123151332/aa5139cb-a6df-4a11-a75e-7a6cba1074b3)
+![image](https://github.com/lucashomuniz/Project-5/assets/123151332/ca5e91f7-fe1e-462c-b8ee-04cf0534b669)
 
 There are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm, which requires a deep understanding of its 
 functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging 
 process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with 
 hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
+
+Microsoft Azure Machine Learning offers a cloud-based platform with scalable computing resources, seamless integration with other Azure services, and automated machine learning capabilities for model selection and tuning. It provides tools for managing experiments, tracking performance, and version control, facilitating reproducibility and collaboration. With simplified model deployment, monitoring, and extensive library support, it enables efficient development and integration of machine learning workflows. Azure Machine Learning ensures security and compliance, while promoting collaboration and knowledge sharing among team members. Overall, it is a powerful platform for developing, deploying, and managing machine learning models in the cloud.
+
+![image](https://github.com/lucashomuniz/Project-5/assets/123151332/39aa49f1-a3e1-4b07-98b4-08c45927957e)
 
 # DATA SOURCERS
 
