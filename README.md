@@ -8,6 +8,10 @@ Keywords: R Language, Microsoft Azure Big Data, Data Analysis, Linear Regression
 
 # PROCESS
 
+Microsoft Azure Machine Learning offers a cloud-based platform with scalable computing resources, seamless integration with other Azure services, and automated machine learning capabilities for model selection and tuning. It provides tools for managing experiments, tracking performance, and version control, facilitating reproducibility and collaboration. With simplified model deployment, monitoring, and extensive library support, it enables efficient development and integration of machine learning workflows. Azure Machine Learning ensures security and compliance, while promoting collaboration and knowledge sharing among team members. Overall, it is a powerful platform for developing, deploying, and managing machine learning models in the cloud.
+
+![Screenshot 2023-06-24 at 11 21 38](https://github.com/lucashomuniz/Project-5/assets/123151332/9299bf49-98ec-4f51-9189-bc4f0f4f48b2)
+
 In this experiment, we first used the linear regression algorithm as part of the machine learning development process to estimate bicycle rental demand. The linear regression algorithm allowed the construction of
 an initial predictive model, using a data set for training. Subsequently, Feature Selection techniques were applied to improve the model, selecting the most relevant variables. However, this combined approach of 
 linear regression and Feature Selection did not result in an optimized model, which had a very low coefficient of determination.
@@ -32,11 +36,7 @@ accurate and reliable in its predictions.
 
 ![Screenshot 2023-06-24 at 11 20 29](https://github.com/lucashomuniz/Project-5/assets/123151332/0a74449a-5728-473a-a52b-c2688e7a6cb1)
 
-There are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
-
-Microsoft Azure Machine Learning offers a cloud-based platform with scalable computing resources, seamless integration with other Azure services, and automated machine learning capabilities for model selection and tuning. It provides tools for managing experiments, tracking performance, and version control, facilitating reproducibility and collaboration. With simplified model deployment, monitoring, and extensive library support, it enables efficient development and integration of machine learning workflows. Azure Machine Learning ensures security and compliance, while promoting collaboration and knowledge sharing among team members. Overall, it is a powerful platform for developing, deploying, and managing machine learning models in the cloud.
-
-![Screenshot 2023-06-24 at 11 21 38](https://github.com/lucashomuniz/Project-5/assets/123151332/9299bf49-98ec-4f51-9189-bc4f0f4f48b2)
+For future projects, there are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
 
 # DATA SOURCERS
 
