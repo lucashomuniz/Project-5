@@ -12,13 +12,13 @@ In this experiment, we first used the linear regression algorithm as part of the
 an initial predictive model, using a data set for training. Subsequently, Feature Selection techniques were applied to improve the model, selecting the most relevant variables. However, this combined approach of 
 linear regression and Feature Selection did not result in an optimized model, which had a very low coefficient of determination.
 
-![image](https://github.com/lucashomuniz/Project-5/assets/123151332/dfb4e2ee-4353-4aab-881c-2311e1e8a216)
+![image](https://github.com/lucashomuniz/Project-5/assets/123151332/f3256d30-7873-4bbc-a851-07a87564a9ab)
 
 After realizing that the first algorithm used, linear regression, did not obtain satisfactory results, it was decided to adopt a different approach for the development of machine learning. Thus, it was decided to
 use the Boosted Decision Tree Regression algorithm. This choice was due to its ability to deal with complex relationships between variables and improve the predictive capacity of the model. Through 
 Boosted Decision Tree Regression, it was possible to obtain a more accurate and efficient model for forecasting bicycle rental demand, allowing for more informed decisions and optimizing the service offered.
 
-![image](https://github.com/lucashomuniz/Project-5/assets/123151332/46bc8cc4-9bac-40f5-8c2b-bf2e03b6a236)
+![image](https://github.com/lucashomuniz/Project-5/assets/123151332/0b4860de-1ca4-4f1e-a214-e9804dad007b)
 
 In the machine learning development process, it is important to consider choosing the right algorithm to achieve more accurate and efficient results. While Linear Regression is a simpler algorithm, 
 Boosted Decision Tree Regression is a more complex and optimized option. By using this improved Decision Tree algorithm, you can learn more deeply about the correlations between your data, resulting in superior
