@@ -2,7 +2,7 @@
 
 The project you described focuses on creating a predictive model to estimate bicycle rental demand. The aim is to build a regression model that can predict the number of bicycles rented in a specific hour. To accomplish this, a dataset was used to train the model, with the target variable being the "COUNT (CNT)" which represents the number of bicycles rented. During the process of building the regression model, a technique called Feature Selection was applied. This technique involves selecting the most relevant variables from the dataset to be used in building the model. By doing so, the model becomes simpler to interpret, reduces training time, and improves its generalization capabilities while avoiding overfitting.
 
-
+This project was developed in parallel using both the R programming language and Microsoft Azure Machine Learning Studio. This suggests that the project team utilized both tools to explore and analyze the dataset, build and train the regression model and the Boosted Decision Tree Regression, evaluating ther performances. R language provides a powerful and flexible environment for statistical analysis and modeling, while Azure Machine Learning Studio offers a cloud-based platform for building and deploying machine learning models. By leveraging these tools, the team could benefit from the strengths of each platform and choose the most suitable one based on their requirements and preferences. This approach demonstrates the versatility and adaptability of the project, as it was able to leverage different tools to achieve the desired outcome.
 
 Keywords: R Language, Microsoft Azure Big Data, Data Analysis, Linear Regression, Boosted Decision Tree Regression, Machine Learning, Bikes, Optimization, Predictive Model, Rent Forecast.
 
@@ -38,10 +38,4 @@ accurate and reliable in its predictions.
 
 For future projects, there are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
 
-# DATA SOURCERS
 
-The “Bike Rental UCI” dataset will be used to build and train the model in this experiment. This dataset is based on real data from the company Capital Bikeshare, which operates bicycle rentals in the city of 
-Washington DC, in the USA. The dataset contains 17,379 observations and 17 variables, representing the number of bicycles rented within specific hours of the day, in the years 2011 and 2012. Weather conditions 
-(such as temperature, humidity and wind speed) were included in the dataset and the dates were categorized like holidays and days of the week.
-
-Dataset: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
