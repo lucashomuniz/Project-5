@@ -2,7 +2,7 @@
 
 The project you described focuses on creating a predictive model to estimate bicycle rental demand. The aim is to build a regression model that can predict the number of bicycles rented in a specific hour. To accomplish this, a dataset was used to train the model, with the target variable being the "COUNT (CNT)" which represents the number of bicycles rented. During the process of building the regression model, a technique called Feature Selection was applied. This technique involves selecting the most relevant variables from the dataset to be used in building the model. By doing so, the model becomes simpler to interpret, reduces training time, and improves its generalization capabilities while avoiding overfitting.
 
-This project was developed in parallel using both the R programming language and Microsoft Azure Machine Learning Studio. This suggests that the project team utilized both tools to explore and analyze the dataset, build and train the regression model and the Boosted Decision Tree Regression, evaluating ther performances. R language provides a powerful and flexible environment for statistical analysis and modeling, while Azure Machine Learning Studio offers a cloud-based platform for building and deploying machine learning models. By leveraging these tools, the team could benefit from the strengths of each platform and choose the most suitable one based on their requirements and preferences. This approach demonstrates the versatility and adaptability of the project, as it was able to leverage different tools to achieve the desired outcome.
+
 
 Keywords: R Language, Microsoft Azure Big Data, Data Analysis, Linear Regression, Boosted Decision Tree Regression, Machine Learning, Bikes, Optimization, Predictive Model, Rent Forecast.
 
