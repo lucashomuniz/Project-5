@@ -10,6 +10,12 @@ Keywords: R Language, Microsoft Azure Big Data, Data Analysis, Linear Regression
 
 # ✅ PROCESS
 
+Microsoft Azure Machine Learning offers a cloud-based platform with scalable computing resources, seamless integration with other Azure services, and automated machine learning capabilities for model selection and tuning. It provides tools for managing experiments, tracking performance, and version control, facilitating reproducibility and collaboration. With simplified model deployment, monitoring, and extensive library support, it enables efficient development and integration of machine learning workflows. Azure Machine Learning ensures security and compliance, while promoting collaboration and knowledge sharing among team members. Overall, it is a powerful platform for developing, deploying, and managing machine learning models in the cloud.
+
+
+![Screenshot 2023-06-24 at 11 21 38](https://github.com/lucashomuniz/Project-5/assets/123151332/9299bf49-98ec-4f51-9189-bc4f0f4f48b2)
+
+
 The project is done step by step as follows: Clear definition of the business problem to be solved. This involves identifying the questions that need to be answered or the decisions that must be made based on the available data. After defining the problem, the next step is to collect the relevant data for analysis. This may include extracting data from diverse sources such as databases or publicly available datasets.
 With the data collected, it is necessary to carry out data munging, that is, cleaning and preparing the data. This may involve removing missing values, handling outliers, and transforming variables to prepare the data for analysis. After data munging, the data can be loaded into an analysis tool, such as Azure ML, which supports the R language. This will allow you to perform advanced manipulations and analysis on the data. It is then important to perform additional cleaning and transformation on the data, if necessary, to prepare it for exploratory analysis and modeling. This can include removing irrelevant columns, handling outliers, encoding categorical variables, and normalizing the data.
 
@@ -27,12 +33,6 @@ After training the model, it is necessary to verify the computation of residuals
 
 
 <img width="528" alt="Screenshot 2023-06-26 at 15 51 49" src="https://github.com/lucashomuniz/Project-5/assets/123151332/50ec1031-c421-4b49-b1e7-6b781dd7b3ff">
-
-
-Microsoft Azure Machine Learning offers a cloud-based platform with scalable computing resources, seamless integration with other Azure services, and automated machine learning capabilities for model selection and tuning. It provides tools for managing experiments, tracking performance, and version control, facilitating reproducibility and collaboration. With simplified model deployment, monitoring, and extensive library support, it enables efficient development and integration of machine learning workflows. Azure Machine Learning ensures security and compliance, while promoting collaboration and knowledge sharing among team members. Overall, it is a powerful platform for developing, deploying, and managing machine learning models in the cloud.
-
-
-![Screenshot 2023-06-24 at 11 21 38](https://github.com/lucashomuniz/Project-5/assets/123151332/9299bf49-98ec-4f51-9189-bc4f0f4f48b2)
 
 
 In this experiment, we first used the linear regression algorithm as part of the machine learning development process to estimate bicycle rental demand. The linear regression algorithm allowed the construction of
