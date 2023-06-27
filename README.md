@@ -53,6 +53,8 @@ accurate and reliable in its predictions.
 
 For future projects, there are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
 
+API Key: c0qSxgSxknhU+wZZQS6yJ7gcGcOlBMkAihgf2DUiSwMC+h5GMXvsPYQioilMQV1IQB4uPHKfmaPz+AMC3AiOtg==
+
 # ✅ DATA SOURCERS
 
 The “Bike Rental UCI” dataset will be used to build and train the model in this experiment. This dataset is based on real data from the company Capital Bikeshare, which operates bicycle rentals in the city of 
