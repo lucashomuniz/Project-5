@@ -16,7 +16,7 @@ Microsoft Azure Machine Learning offers a cloud-based platform with scalable com
 ![Screenshot 2023-06-24 at 11 21 38](https://github.com/lucashomuniz/Project-5/assets/123151332/9299bf49-98ec-4f51-9189-bc4f0f4f48b2)
 
 
-The project is done step by step as follows: Clear definition of the business problem to be solved. This involves identifying the questions that need to be answered or the decisions that must be made based on the available data. After defining the problem, the next step is to collect the relevant data for analysis. This may include extracting data from diverse sources such as databases or publicly available datasets.
+Initially, we start with a clear definition of the business problem to be solved. This involves identifying the questions that need to be answered or the decisions that must be made based on the available data. After defining the problem, the next step is to collect the relevant data for analysis. This may include extracting data from diverse sources such as databases or publicly available datasets.
 With the data collected, it is necessary to carry out data munging, that is, cleaning and preparing the data. This may involve removing missing values, handling outliers, and transforming variables to prepare the data for analysis. After data munging, the data can be loaded into an analysis tool, such as Azure ML, which supports the R language. This will allow you to perform advanced manipulations and analysis on the data. It is then important to perform additional cleaning and transformation on the data, if necessary, to prepare it for exploratory analysis and modeling. This can include removing irrelevant columns, handling outliers, encoding categorical variables, and normalizing the data.
 
 
