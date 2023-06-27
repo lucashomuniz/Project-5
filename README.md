@@ -8,7 +8,7 @@ This project was developed in parallel using both the R programming language and
 
 Keywords: R Language, Microsoft Azure Big Data, Data Analysis, Linear Regression, Boosted Decision Tree Regression, Machine Learning, Bikes, Optimization, Predictive Model, Rent Forecast.
 
-# PROCESS
+# ✅ PROCESS
 
 The project is done step by step as follows: Clear definition of the business problem to be solved. This involves identifying the questions that need to be answered or the decisions that must be made based on the available data. After defining the problem, the next step is to collect the relevant data for analysis. This may include extracting data from diverse sources such as databases or publicly available datasets.
 With the data collected, it is necessary to carry out data munging, that is, cleaning and preparing the data. This may involve removing missing values, handling outliers, and transforming variables to prepare the data for analysis. After data munging, the data can be loaded into an analysis tool, such as Azure ML, which supports the R language. This will allow you to perform advanced manipulations and analysis on the data. It is then important to perform additional cleaning and transformation on the data, if necessary, to prepare it for exploratory analysis and modeling. This can include removing irrelevant columns, handling outliers, encoding categorical variables, and normalizing the data.
@@ -68,7 +68,7 @@ accurate and reliable in its predictions.
 
 For future projects, there are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
 
-# DATA SOURCERS
+# ✅ DATA SOURCERS
 
 The “Bike Rental UCI” dataset will be used to build and train the model in this experiment. This dataset is based on real data from the company Capital Bikeshare, which operates bicycle rentals in the city of 
 Washington DC, in the USA. The dataset contains 17,379 observations and 17 variables, representing the number of bicycles rented within specific hours of the day, in the years 2011 and 2012. Weather conditions 
