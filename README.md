@@ -56,14 +56,16 @@ Boosted Decision Tree Regression is a more complex and optimized option. By usin
 performance and better prediction results. This careful selection of the algorithm guarantees a more robust approach capable of delivering more accurate and valuable analyzes for the problem in question.
 
 
-![Screenshot 2023-06-24 at 11 20 29](https://github.com/lucashomuniz/Project-5/assets/123151332/0a74449a-5728-473a-a52b-c2688e7a6cb1)
-
+# ✅ CONCLUSION
 
 The residual histogram plot reveals that most of the differences between the predicted and observed values by the machine learning model using the Boosted Decision Tree Regression algorithm are small, indicating 
 a reasonable predictability with an acceptable degree of error. However, there are significant residuals that move away from the zero value, pointing to more significant errors in certain cases. These residuals 
 can be caused by variables not considered, unforeseen external influences or limitations of the algorithm itself. Therefore, it is necessary to perform an in-depth analysis of these outliers, identify their 
 possible causes and evaluate the inclusion of additional variables to improve the predictive capacity of the model. With this refined approach, it will be possible to optimize performance and make the model more 
 accurate and reliable in its predictions.
+
+
+![Screenshot 2023-06-24 at 11 20 29](https://github.com/lucashomuniz/Project-5/assets/123151332/0a74449a-5728-473a-a52b-c2688e7a6cb1)
 
 
 For future projects, there are several ways to optimize the machine learning model. The first option is to adjust the parameters of the Boosted Decision Tree Regression algorithm in the Microsoft Azure Machine Learning, which requires a deep understanding of its functionalities. The second option is to create a custom script to optimize the algorithm based on mathematical and statistical techniques. The third option involves strategic improvements in the Data Munging process, making specific changes. Finally, the fourth option is to use the Tune Model Hyperparameters, which allows testing different combinations of hyperparameters for different algorithms, with hyperparameters being specific configurations of the algorithm that affect its performance. These options offer different approaches to optimizing the model and maximizing its accuracy and efficiency.
