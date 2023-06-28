@@ -1,9 +1,5 @@
-# Este script contém diversas funções utilitárias usadas em diversos scripts R.
-# Este arquivo deve ser compactado em um arquivo zip e importado no Azure ML.
-# Para usar as funções deste script, utilizamos a funcao source() para carregar o script.
-
-# Obs: Caso tenha problemas com a acentuação, consulte este link:
-# https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
+# This script contains several utility functions used in various R scripts.
+# This file must be compressed into a zip file and imported into Azure ML.
 
 set.asPOSIXct <- function(inFrame) { 
   dteday <- as.POSIXct(
